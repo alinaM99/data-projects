@@ -1,0 +1,51 @@
+client_id,company_name,sector,country,partnership_status,satisfaction_score
+1,Roombo,Energy,United States,Churned,7
+2,Blogspan,Healthcare,Uganda,Active,3
+3,Browseblab,Manufacturing,Greece,Churned,5
+4,Realblab,Retail,Russia,Active,4
+5,Voonte,Technology,Brazil,Churned,1
+6,Meejo,Real Estate,Indonesia,Active,2
+7,Podcat,Energy,Colombia,Inactive,8
+8,Livefish,Manufacturing,Indonesia,Active,4
+9,Browsetype,Logistics,United States,Churned,3
+10,Kamba,Real Estate,Indonesia,Churned,9
+11,Photobug,Manufacturing,China,Inactive,7
+12,Realbuzz,Finance,United States,Active,6
+13,Edgepulse,Finance,United States,Churned,8
+14,Edgeclub,Energy,Japan,Active,3
+15,Quatz,Manufacturing,China,Active,10
+16,Layo,Logistics,Argentina,Active,7
+17,Edgeclub,Energy,China,Active,4
+18,Brainverse,Education,China,Churned,7
+19,Zoovu,Manufacturing,Russia,Churned,10
+20,Ooba,Technology,China,Churned,7
+21,Miboo,Public Sector,China,Churned,5
+22,Oloo,Logistics,France,Inactive,6
+23,Wikizz,Energy,China,Inactive,1
+24,Oodoo,Retail,Argentina,Inactive,10
+25,Skyba,Public Sector,China,Inactive,5
+26,Twitterbeat,Manufacturing,China,Active,5
+27,Twitterbeat,Technology,Ukraine,Inactive,5
+28,Bubblebox,Finance,Indonesia,Churned,4
+29,Quinu,Energy,France,Churned,4
+30,Divanoodle,Logistics,Indonesia,Inactive,7
+31,Rhynyx,Energy,Russia,Churned,4
+32,Edgeify,Technology,Philippines,Churned,4
+33,Dabshots,Retail,China,Inactive,5
+34,Bubblemix,Finance,China,Active,3
+35,Edgepulse,Retail,Philippines,Active,9
+36,Roombo,Logistics,Philippines,Churned,3
+37,Divape,Real Estate,Indonesia,Churned,2
+38,Feednation,Public Sector,Indonesia,Churned,1
+39,Oyope,Retail,Thailand,Inactive,5
+40,Tanoodle,Energy,Thailand,Churned,2
+41,Kwinu,Real Estate,China,Churned,8
+42,Zoozzy,Public Sector,Yemen,Inactive,9
+43,Meevee,Technology,China,Churned,7
+44,Skynoodle,Manufacturing,Cuba,Churned,9
+45,Dabtype,Healthcare,Portugal,Active,2
+46,Digitube,Finance,China,Inactive,3
+47,Flipopia,Public Sector,Thailand,Churned,6
+48,Oodoo,Finance,China,Churned,3
+49,Jazzy,Real Estate,France,Inactive,4
+50,Gigaclub,Healthcare,Ukraine,Churned,1

@@ -1,0 +1,27 @@
+# Create .gitignore
+cat > .gitignore << 'EOF'
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Power BI autosaves
+*.pbix.autosave
+
+# Large data you don't want in git
+data/raw/
+data/private/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Power BI service exports (optional)
+*.pbip
+EOF

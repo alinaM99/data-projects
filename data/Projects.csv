@@ -1,0 +1,201 @@
+project_id,client_id,project_name,start_date,end_date,budget_eur,status
+1,37,Client Segmentation Analysis,2023-05-08,2023-05-08,17842,Delayed
+2,39,Performance Improvement Program,2023-07-07,2023-07-07,195426,Planned
+3,49,Cybersecurity Risk Assessment,2023-10-24,2023-10-24,108745,Planned
+4,23,Operational Efficiency Review,2023-07-24,2023-07-24,51946,Completed
+5,21,Cybersecurity Risk Assessment,2023-05-03,2023-05-03,58553,Completed
+6,16,Sustainability Consulting,2023-01-17,2023-01-17,196158,Ongoing
+7,43,Digital Transformation Strategy,2024-01-01,2024-01-01,24693,Ongoing
+8,26,AI Readiness Assessment,2023-04-18,2023-04-18,122604,Completed
+9,50,Cybersecurity Risk Assessment,2023-03-09,2023-03-09,89815,Planned
+10,50,IT Infrastructure Upgrade,2023-04-07,2023-04-07,154699,Completed
+11,10,Digital Strategy Overhaul,2023-04-09,2023-04-09,52578,Planned
+12,39,Financial Process Redesign,2023-12-22,2023-12-22,32240,Ongoing
+13,48,Data Governance Framework,2023-08-14,2023-08-14,138189,Ongoing
+14,12,GDPR Compliance Roadmap,2023-04-10,2023-04-10,33828,Planned
+15,49,Cloud Migration Project,2023-10-04,2023-10-04,62022,Ongoing
+16,50,Merger Integration Support,2023-10-21,2023-10-21,122576,Completed
+17,21,HR Automation Rollout,2023-10-04,2023-10-04,161318,Planned
+18,30,Performance Improvement Program,2023-11-20,2023-11-20,25208,Delayed
+19,6,Product Launch Strategy,2023-02-20,2023-02-20,55512,Planned
+20,44,Financial Process Redesign,2023-06-07,2023-06-07,24257,Ongoing
+21,44,Merger Integration Support,2023-01-02,2023-01-02,75751,Planned
+22,32,Client Segmentation Analysis,2023-01-10,2023-01-10,37383,Planned
+23,1,Compliance & Risk Audit,2023-03-11,2023-03-11,78851,Ongoing
+24,15,Digital Strategy Overhaul,2023-11-18,2023-11-18,26538,Completed
+25,12,HR Automation Rollout,2023-02-21,2023-02-21,199314,Completed
+26,3,GDPR Compliance Roadmap,2023-12-15,2023-12-15,58965,Delayed
+27,31,Digital Strategy Overhaul,2023-07-20,2023-07-20,29408,Delayed
+28,24,Digital Transformation Strategy,2023-06-28,2023-06-28,131697,Completed
+29,1,Product Launch Strategy,2023-12-09,2023-12-09,10869,Completed
+30,39,HR Automation Rollout,2023-12-09,2023-12-09,144178,Ongoing
+31,6,Data Governance Framework,2023-12-03,2023-12-03,196818,Planned
+32,34,Performance Improvement Program,2023-04-04,2023-04-04,69061,Planned
+33,26,Merger Integration Support,2023-07-05,2023-07-05,55502,Delayed
+34,6,CRM Integration Project,2023-06-04,2023-06-04,182455,Ongoing
+35,30,Customer Journey Mapping,2023-01-21,2023-01-21,12712,Ongoing
+36,27,Customer Journey Mapping,2023-01-19,2023-01-19,117811,Delayed
+37,22,CRM Integration Project,2023-02-21,2023-02-21,115941,Delayed
+38,25,Merger Integration Support,2023-07-08,2023-07-08,187662,Ongoing
+39,26,Financial Process Redesign,2023-08-02,2023-08-02,127417,Completed
+40,41,Sustainability Consulting,2023-06-13,2023-06-13,81052,Ongoing
+41,35,Cloud Migration Project,2023-03-29,2023-03-29,26502,Completed
+42,21,CRM Integration Project,2023-04-24,2023-04-24,184170,Completed
+43,17,Client Segmentation Analysis,2023-02-18,2023-02-18,198382,Delayed
+44,1,Digital Transformation Strategy,2023-04-21,2023-04-21,30151,Delayed
+45,5,IT Infrastructure Upgrade,2023-11-03,2023-11-03,32012,Delayed
+46,8,Operational Efficiency Review,2023-01-15,2023-01-15,168193,Completed
+47,37,HR Automation Rollout,2023-06-01,2023-06-01,76001,Ongoing
+48,7,Digital Strategy Overhaul,2023-03-30,2023-03-30,140081,Completed
+49,42,Merger Integration Support,2023-12-16,2023-12-16,148711,Planned
+50,26,Performance Improvement Program,2023-01-31,2023-01-31,142544,Delayed
+51,33,Digital Transformation Strategy,2023-04-12,2023-04-12,88360,Delayed
+52,31,Digital Strategy Overhaul,2023-11-17,2023-11-17,98464,Delayed
+53,9,CRM Integration Project,2023-09-27,2023-09-27,137829,Planned
+54,5,Sustainability Consulting,2023-09-08,2023-09-08,20662,Ongoing
+55,3,Merger Integration Support,2023-11-19,2023-11-19,169609,Ongoing
+56,29,Cybersecurity Risk Assessment,2023-01-30,2023-01-30,82692,Completed
+57,20,Client Segmentation Analysis,2023-06-25,2023-06-25,76789,Planned
+58,11,Customer Journey Mapping,2023-04-13,2023-04-13,94282,Planned
+59,47,Cybersecurity Risk Assessment,2023-10-30,2023-10-30,67472,Delayed
+60,40,CRM Integration Project,2023-06-14,2023-06-14,89853,Completed
+61,44,GDPR Compliance Roadmap,2023-04-30,2023-04-30,161956,Ongoing
+62,19,Sustainability Consulting,2023-02-18,2023-02-18,42240,Planned
+63,37,Product Launch Strategy,2023-11-27,2023-11-27,122923,Completed
+64,34,Operational Efficiency Review,2023-03-29,2023-03-29,128906,Ongoing
+65,27,HR Automation Rollout,2023-10-11,2023-10-11,22955,Planned
+66,28,Client Segmentation Analysis,2023-09-27,2023-09-27,107280,Planned
+67,29,Sustainability Consulting,2023-06-16,2023-06-16,106121,Completed
+68,27,Client Segmentation Analysis,2023-07-20,2023-07-20,90755,Completed
+69,38,GDPR Compliance Roadmap,2023-10-03,2023-10-03,79024,Completed
+70,20,AI Readiness Assessment,2023-10-11,2023-10-11,91212,Planned
+71,21,CRM Integration Project,2023-10-02,2023-10-02,175951,Delayed
+72,6,Client Segmentation Analysis,2023-11-22,2023-11-22,42057,Planned
+73,36,Financial Process Redesign,2023-10-18,2023-10-18,128002,Ongoing
+74,28,Operational Efficiency Review,2023-08-21,2023-08-21,91412,Ongoing
+75,9,AI Readiness Assessment,2023-04-09,2023-04-09,106882,Completed
+76,20,AI Readiness Assessment,2023-02-25,2023-02-25,146962,Ongoing
+77,18,Digital Transformation Strategy,2023-04-26,2023-04-26,108299,Completed
+78,31,Operational Efficiency Review,2023-10-18,2023-10-18,106588,Completed
+79,48,Compliance & Risk Audit,2023-03-24,2023-03-24,79887,Completed
+80,46,Merger Integration Support,2024-01-06,2024-01-06,179383,Planned
+81,3,CRM Integration Project,2023-03-16,2023-03-16,52092,Ongoing
+82,34,Product Launch Strategy,2023-08-23,2023-08-23,138723,Planned
+83,15,Sustainability Consulting,2023-12-24,2023-12-24,18658,Ongoing
+84,44,Sustainability Consulting,2023-01-28,2023-01-28,125580,Completed
+85,14,Cybersecurity Risk Assessment,2023-10-14,2023-10-14,12396,Completed
+86,29,Performance Improvement Program,2023-01-19,2023-01-19,66712,Planned
+87,2,Performance Improvement Program,2024-01-05,2024-01-05,32637,Planned
+88,2,Data Governance Framework,2023-05-10,2023-05-10,46324,Ongoing
+89,40,HR Automation Rollout,2023-03-22,2023-03-22,155714,Planned
+90,42,Digital Strategy Overhaul,2023-03-22,2023-03-22,59045,Ongoing
+91,14,CRM Integration Project,2023-12-22,2023-12-22,106155,Completed
+92,47,Digital Strategy Overhaul,2023-09-11,2023-09-11,123329,Planned
+93,9,Cybersecurity Risk Assessment,2023-07-29,2023-07-29,93376,Planned
+94,6,IT Infrastructure Upgrade,2023-05-15,2023-05-15,71310,Completed
+95,19,Product Launch Strategy,2023-10-22,2023-10-22,102825,Planned
+96,41,Financial Process Redesign,2023-09-11,2023-09-11,64848,Completed
+97,40,Sustainability Consulting,2023-02-09,2023-02-09,100680,Ongoing
+98,4,Digital Strategy Overhaul,2023-06-19,2023-06-19,65947,Completed
+99,20,Product Launch Strategy,2023-02-04,2023-02-04,78064,Delayed
+100,14,IT Infrastructure Upgrade,2023-12-17,2023-12-17,128867,Ongoing
+101,24,Marketing Analytics Implementation,2023-08-27,2023-08-27,100277,Completed
+102,42,Product Launch Strategy,2023-11-29,2023-11-29,98197,Completed
+103,44,Cybersecurity Risk Assessment,2023-06-17,2023-06-17,18419,Planned
+104,49,CRM Integration Project,2023-11-25,2023-11-25,139770,Ongoing
+105,13,Cybersecurity Risk Assessment,2023-08-22,2023-08-22,27111,Completed
+106,23,Product Launch Strategy,2023-04-24,2023-04-24,176184,Delayed
+107,7,Data Governance Framework,2023-04-27,2023-04-27,185041,Completed
+108,28,HR Automation Rollout,2023-10-20,2023-10-20,40120,Planned
+109,49,Cloud Migration Project,2023-10-13,2023-10-13,160458,Delayed
+110,2,CRM Integration Project,2023-01-17,2023-01-17,144865,Ongoing
+111,17,Cybersecurity Risk Assessment,2023-07-05,2023-07-05,47715,Delayed
+112,24,AI Readiness Assessment,2023-11-17,2023-11-17,94846,Planned
+113,14,Data Governance Framework,2023-06-10,2023-06-10,60696,Ongoing
+114,6,Merger Integration Support,2023-08-15,2023-08-15,156373,Completed
+115,21,Product Launch Strategy,2023-06-05,2023-06-05,176754,Ongoing
+116,12,Sustainability Consulting,2023-08-29,2023-08-29,115648,Delayed
+117,44,Digital Transformation Strategy,2023-12-22,2023-12-22,187897,Ongoing
+118,39,Merger Integration Support,2023-05-28,2023-05-28,188780,Planned
+119,4,Performance Improvement Program,2023-01-21,2023-01-21,52203,Planned
+120,35,IT Infrastructure Upgrade,2023-12-30,2023-12-30,89876,Planned
+121,19,Compliance & Risk Audit,2023-07-24,2023-07-24,54659,Delayed
+122,30,Cloud Migration Project,2023-01-22,2023-01-22,24432,Ongoing
+123,43,IT Infrastructure Upgrade,2023-05-27,2023-05-27,168428,Ongoing
+124,6,Sustainability Consulting,2023-11-11,2023-11-11,110826,Completed
+125,39,Sustainability Consulting,2023-10-06,2023-10-06,131624,Completed
+126,34,Merger Integration Support,2023-11-07,2023-11-07,124883,Planned
+127,12,Client Segmentation Analysis,2023-03-15,2023-03-15,56644,Planned
+128,11,AI Readiness Assessment,2023-02-19,2023-02-19,48268,Completed
+129,37,Operational Efficiency Review,2023-05-12,2023-05-12,162523,Ongoing
+130,22,Performance Improvement Program,2023-12-24,2023-12-24,23976,Completed
+131,16,Data Governance Framework,2023-05-20,2023-05-20,51428,Delayed
+132,26,Client Segmentation Analysis,2023-08-29,2023-08-29,38918,Completed
+133,9,Digital Transformation Strategy,2023-01-04,2023-01-04,41467,Planned
+134,48,Financial Process Redesign,2023-01-12,2023-01-12,107048,Completed
+135,30,Data Governance Framework,2023-04-20,2023-04-20,24203,Ongoing
+136,17,HR Automation Rollout,2023-01-01,2023-01-01,20664,Delayed
+137,32,Data Governance Framework,2023-09-01,2023-09-01,101875,Delayed
+138,38,Product Launch Strategy,2023-05-10,2023-05-10,159720,Ongoing
+139,35,Cloud Migration Project,2023-01-31,2023-01-31,128110,Ongoing
+140,45,CRM Integration Project,2023-02-16,2023-02-16,123297,Completed
+141,23,AI Readiness Assessment,2023-01-02,2023-01-02,191406,Delayed
+142,29,Sustainability Consulting,2023-06-16,2023-06-16,134241,Delayed
+143,32,Compliance & Risk Audit,2023-05-26,2023-05-26,106166,Completed
+144,34,Cloud Migration Project,2023-02-01,2023-02-01,71049,Completed
+145,21,Merger Integration Support,2023-08-26,2023-08-26,158669,Planned
+146,18,Performance Improvement Program,2023-02-28,2023-02-28,78041,Delayed
+147,49,Compliance & Risk Audit,2023-11-21,2023-11-21,143923,Ongoing
+148,4,Compliance & Risk Audit,2023-05-05,2023-05-05,49034,Delayed
+149,28,CRM Integration Project,2023-12-09,2023-12-09,143343,Delayed
+150,13,Compliance & Risk Audit,2023-05-28,2023-05-28,136472,Planned
+151,48,Cloud Migration Project,2023-08-22,2023-08-22,38235,Planned
+152,25,Product Launch Strategy,2023-06-11,2023-06-11,195194,Completed
+153,8,Product Launch Strategy,2023-01-06,2023-01-06,58741,Planned
+154,3,Compliance & Risk Audit,2023-06-08,2023-06-08,83544,Planned
+155,28,Cloud Migration Project,2023-03-10,2023-03-10,82127,Planned
+156,47,Operational Efficiency Review,2023-07-24,2023-07-24,45889,Completed
+157,33,Performance Improvement Program,2023-01-20,2023-01-20,42439,Planned
+158,1,Performance Improvement Program,2023-07-15,2023-07-15,123383,Completed
+159,29,Marketing Analytics Implementation,2023-01-12,2023-01-12,81584,Planned
+160,16,AI Readiness Assessment,2024-01-03,2024-01-03,195698,Completed
+161,6,Operational Efficiency Review,2023-02-04,2023-02-04,71236,Planned
+162,29,HR Automation Rollout,2023-12-19,2023-12-19,75015,Completed
+163,18,Sustainability Consulting,2023-10-22,2023-10-22,89461,Completed
+164,30,Merger Integration Support,2023-05-31,2023-05-31,30818,Ongoing
+165,16,Cloud Migration Project,2023-05-12,2023-05-12,97595,Delayed
+166,42,GDPR Compliance Roadmap,2023-08-18,2023-08-18,48635,Delayed
+167,7,CRM Integration Project,2023-02-05,2023-02-05,50576,Planned
+168,39,Cloud Migration Project,2024-01-06,2024-01-06,18770,Ongoing
+169,13,Digital Transformation Strategy,2023-05-24,2023-05-24,23743,Ongoing
+170,4,Digital Transformation Strategy,2023-06-29,2023-06-29,72809,Planned
+171,26,Customer Journey Mapping,2023-07-16,2023-07-16,33079,Ongoing
+172,12,Merger Integration Support,2023-11-16,2023-11-16,25996,Delayed
+173,4,Compliance & Risk Audit,2023-07-30,2023-07-30,58232,Planned
+174,23,Data Governance Framework,2023-11-16,2023-11-16,39259,Ongoing
+175,13,Digital Transformation Strategy,2023-10-14,2023-10-14,41100,Ongoing
+176,13,Marketing Analytics Implementation,2023-05-15,2023-05-15,105573,Completed
+177,22,Compliance & Risk Audit,2023-03-25,2023-03-25,25523,Delayed
+178,35,Digital Transformation Strategy,2023-10-01,2023-10-01,65470,Completed
+179,28,Merger Integration Support,2023-04-17,2023-04-17,172501,Completed
+180,27,CRM Integration Project,2023-02-10,2023-02-10,153127,Completed
+181,21,Digital Transformation Strategy,2023-12-23,2023-12-23,168203,Completed
+182,18,Cybersecurity Risk Assessment,2023-11-01,2023-11-01,154538,Ongoing
+183,13,Compliance & Risk Audit,2023-01-10,2023-01-10,22469,Planned
+184,27,Financial Process Redesign,2023-04-24,2023-04-24,143141,Delayed
+185,23,Customer Journey Mapping,2023-01-22,2023-01-22,49405,Ongoing
+186,32,HR Automation Rollout,2023-07-31,2023-07-31,50457,Planned
+187,50,Marketing Analytics Implementation,2023-04-21,2023-04-21,57233,Delayed
+188,8,Client Segmentation Analysis,2023-01-18,2023-01-18,102567,Completed
+189,8,Digital Transformation Strategy,2023-10-03,2023-10-03,196188,Completed
+190,22,Customer Journey Mapping,2023-07-10,2023-07-10,41342,Planned
+191,21,Operational Efficiency Review,2023-06-20,2023-06-20,130183,Planned
+192,43,Digital Strategy Overhaul,2023-05-05,2023-05-05,197334,Delayed
+193,49,Marketing Analytics Implementation,2023-02-17,2023-02-17,184944,Completed
+194,31,HR Automation Rollout,2023-01-31,2023-01-31,189723,Planned
+195,15,GDPR Compliance Roadmap,2023-11-20,2023-11-20,167203,Ongoing
+196,31,IT Infrastructure Upgrade,2023-11-10,2023-11-10,31659,Planned
+197,16,CRM Integration Project,2023-02-06,2023-02-06,161161,Planned
+198,42,Operational Efficiency Review,2023-02-12,2023-02-12,134823,Completed
+199,48,IT Infrastructure Upgrade,2023-05-30,2023-05-30,75475,Ongoing
+200,47,Marketing Analytics Implementation,2023-02-24,2023-02-24,97696,Planned
